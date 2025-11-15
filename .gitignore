@@ -1,0 +1,27 @@
+# Ignorar dependências e builds
+node_modules/
+dist/
+out/
+
+# Ignorar logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Ignorar cache temporário
+.cache/
+.vscode/
+.DS_Store
+Thumbs.db
+# Ignorar dependências e builds
+node_modules/
+dist/
+out/
+
+# Ignorar logs
+*.log
+
+# Ignorar configurações locais
+.env
+.DS_Store
